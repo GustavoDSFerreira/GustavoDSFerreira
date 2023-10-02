@@ -3,7 +3,7 @@
 ##### desde pequeno apaixonado por tecnologia, sempre buscando aprender
 
 - 👨‍💻Tecnico em Desenvolvimento de Sistemas 
-- 💻 Cursando Analise e desenvovimento
+- 💻 Cursando Analise e Desenvovimento de Sistemas
 - 🌱 Aluno na SPTech 
 - 🎴🔗 @ShinayderGuto
 
