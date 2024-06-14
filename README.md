@@ -1,10 +1,11 @@
 ## Olá, eu sou o Gustavo Ferreira ✌️
 
-##### desde pequeno apaixonado por tecnologia, sempre buscando aprender
+##### desde pequeno apaixonado por tecnologia, sempre buscando aprender mais
 
 - 👨‍💻Tecnico em Desenvolvimento de Sistemas 
 - 💻 Cursando Analise e Desenvovimento de Sistemas
 - 🌱 Aluno na SPTech 
+- 🌟 Intern at elera. 
 - 🎴🔗 @ShinayderGuto
 
 
@@ -27,24 +28,18 @@
 <img alt="JAVASCRIPT" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 <img alt="NODE.JS" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 <img alt="MYSQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+<img alt="React Native" src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
 <img alt="REACT.js" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 <img alt="ORACLE" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black" />
+<img alt="SQL Server" src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+<img alt="JAVA" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+<img alt="VM" src="https://img.shields.io/badge/VM-512BD4?style=for-the-badge&logo=vmware&logoColor=white" /><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+<img alt="Windows Server" src="https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+<img alt="DOCKER" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img alt="POO" src="https://img.shields.io/badge/POO-00599C?style=for-the-badge&logoColor=white" />
+
+
 
 </div>
-
-<!--
-**GustavoDSFerreira/GustavoDSFerreira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
