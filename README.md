@@ -20,25 +20,26 @@
 
 ![Guto's GitHub stats](https://github-readme-stats.vercel.app/api?username=GustavoDSFerreira&show_icons=true&theme=monokai)
 ---
-<table style="width: 100%";>
+<div style="overflow-x: hidden;">
+<table style="width: 100%;">
   <tr>
-    <td>
+    <td style="width: 50%;">
       <img
-        align="left"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoDSFerreira&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
         alt="Github Stats"
+        style="width: 100%;"
       />
     </td>
-    <td>
-      <br />
+    <td style="width: 50%;">
       <img
-        align="left"
         src="https://github-readme-streak-stats.herokuapp.com/?user=GustavoDSFerreira&theme=dark&hide_border=false"
         alt="Github Stats"
+        style="width: 100%;"
       />
     </td>
   </tr>
 </table>
+</div>
 
 ## 📖 Estudando atualmente:
 
