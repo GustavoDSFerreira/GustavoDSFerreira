@@ -20,7 +20,7 @@
 
 ![Guto's GitHub stats](https://github-readme-stats.vercel.app/api?username=GustavoDSFerreira&show_icons=true&theme=monokai)
 ---
-<table>
+<table style="width: 100%";>
   <tr>
     <td>
       <img
