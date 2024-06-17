@@ -65,7 +65,7 @@
 ## Ocupação atual - Estagio ⬇️
 
 
-[<img align="left" height="88px" width="90px" alt="Warpnet" src="ercic_logo.jpeg" style="margin-right: 10px;">]()
+[<img align="left" height="88px" width="90px" alt="Warpnet" src="https://media.licdn.com/dms/image/D4D0BAQF38uJRF4pfog/company-logo_200_200/0/1704829713759/ercic_logo?e=1726704000&v=beta&t=VDL2V0o152aa5utIKpvYWtD79hqO3nkOTB6EQuXOCQk" style="margin-right: 10px;">]()
 
 **Quality Assurance** \
 [<span style="color: #8B0000">***elera.io***</span>](https://www.linkedin.com/company/ercic/mycompany/verification/) • Full-time \
